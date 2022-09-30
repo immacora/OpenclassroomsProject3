@@ -5,8 +5,6 @@ Designez une application Python adaptée aux besoins d'un client
 
 
 
-[Projet de site web Learn at Home 1.pdf](https://github.com/immacora/OpenclassroomsProject3/files/9682840/Projet.de.site.web.Learn.at.Home.1.pdf)
-
 
 
 
